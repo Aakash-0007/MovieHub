@@ -1,3 +1,10 @@
+
+#MovieHub
+
+This is a website i built to showcase all Trending movies currently and display their wikipedia information for avid movie 
+enthusiasts. We can also search any movie and get their particular rating and information. This website uses TMDB API.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
